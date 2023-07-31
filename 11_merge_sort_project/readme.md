@@ -1,0 +1,1 @@
+Usage of goroutines and merge sort algorithm to sort an array.
